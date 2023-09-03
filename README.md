@@ -17,7 +17,7 @@ Project Monitoring & Controlling Greenhouse merupakan pengembangan yang bertujua
 * Pompa Air
 
 ## Skematik Rangkaian Komponen
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/b63ba998d72723995becf825e132150ddcd37892/Lib/10.jpg)
 
 Pin yang digunakan komponen sensor dan output pada ESP32 yaitu :
 | Komponen | Pin     |
@@ -160,3 +160,6 @@ Tipe data sensor yang digunakan yaitu :
 ## Program Aplikasi
 ![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/8dc61d599ebccf31e32524cc46457a2cb7a10615/Lib/6.jpg)
 ![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/8dc61d599ebccf31e32524cc46457a2cb7a10615/Lib/7.jpg)
+
+## Database Google Firebase
+![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/b63ba998d72723995becf825e132150ddcd37892/Lib/8.jpg)
