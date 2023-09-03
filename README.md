@@ -4,15 +4,15 @@ Project Monitoring & Controlling Greenhouse merupakan pengembangan yang bertujua
 
 ## Komponen Yang Digunakan
 1. Mikrokontroler :
-* ESP32
+  * ESP32
 2. Sensor : 
-* DHT 22
-* LDR
-* Soil Moisture
+  * DHT 22
+  * LDR
+  * Soil Moisture
 3. Output :
-* Relay 5V
-* Lampu Pijar
-* Pompa Air
+  * Relay 5V
+  * Lampu Pijar
+  * Pompa Air
 
 ## Skematik Rangkaian Komponen
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
