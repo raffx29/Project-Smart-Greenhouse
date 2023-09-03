@@ -28,6 +28,7 @@ Pin yang digunakan komponen sensor dan output pada ESP32 yaitu :
 | `Soil Moisture` | `35` |
 | `Relay 1` | `5` |
 | `Relay 2` | `17` |
+| `LCD Nextion` | `0` |
 
 ## Program ESP32
 ```c++
