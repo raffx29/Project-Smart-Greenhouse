@@ -153,7 +153,7 @@ Tipe data sensor yang digunakan yaitu :
 | `Soil Moisture` | `float` |
 
 ## Interface Aplikasi
-![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/79caede58498ebe3e078d151ee8ec293e0bb1366/Lib/9.jpg)
+![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/7023ba70bec9769d1c439761c3b0e9c368770138/Lib/9.jpg)
 
 ## Program Aplikasi
 ![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/8dc61d599ebccf31e32524cc46457a2cb7a10615/Lib/6.jpg)
