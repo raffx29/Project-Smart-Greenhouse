@@ -15,6 +15,7 @@ Project Monitoring & Controlling Greenhouse merupakan pengembangan yang bertujua
 * Relay 5V
 * Lampu Pijar
 * Pompa Air
+* LCD Nextion
 
 ## Skematik Rangkaian Komponen
 ![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/b63ba998d72723995becf825e132150ddcd37892/Lib/10.jpg)
