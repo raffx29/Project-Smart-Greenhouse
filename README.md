@@ -156,6 +156,10 @@ Tipe data sensor yang digunakan yaitu :
 | `LDR` | `int` |
 | `Soil Moisture` | `float` |
 
+## Tampilan Alat
+![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/dcf3e5211a99b8813a6205f8b6cc3d55c43d063e/Lib/11.jpg)
+![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/dca9c886e3b9801a8e1078eb9ab915293641822c/Lib/12.jpg)
+
 ## Interface Aplikasi
 ![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/7023ba70bec9769d1c439761c3b0e9c368770138/Lib/9.jpg)
 
